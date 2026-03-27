@@ -3,3 +3,4 @@ data/wdi_cleaned.csv
 data/wdi_cleaned.parquet
 .DS_Store
 .vscode/
+.idea/
